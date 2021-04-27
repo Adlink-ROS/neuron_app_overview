@@ -13,15 +13,21 @@ The Neuron Apps listed below are ready-to-use and essential for AMR applications
 
 - SLAM:
 
-    https://github.com/Adlink-ROS/neuron_app_slam
+    [![](http://img.youtube.com/vi/pcqroeUw12A/0.jpg)](http://www.youtube.com/watch?v=pcqroeUw12A "")
+
+    source code -> https://github.com/Adlink-ROS/neuron_app_slam
 
 - Navigation:
 
-    https://github.com/Adlink-ROS/neuron_app_navigation
+    [![](http://img.youtube.com/vi/VGAeUwzvcXk/0.jpg)](http://www.youtube.com/watch?v=VGAeUwzvcXk "")
+    
+    source code -> https://github.com/Adlink-ROS/neuron_app_navigation
 
 - Auto Inspection:
 
-    https://github.com/Adlink-ROS/neuron_app_inspection
+    [![](http://img.youtube.com/vi/g032DeSfN8Y/0.jpg)](http://www.youtube.com/watch?v=g032DeSfN8Y "")
+    
+    source code -> https://github.com/Adlink-ROS/neuron_app_inspection
 
 ---
 

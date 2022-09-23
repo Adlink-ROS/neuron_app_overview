@@ -38,7 +38,7 @@ Below apps are ready to use but hasn't been integrated into Neuron IDE:
 
     source code -> https://github.com/Adlink-ROS/apriltag_docking
 
-- 2D LiDAR SLAM Toolkit
+- 2D LiDAR SLAM Toolkit & Map to Gazebo World
 
     [![](https://img.youtube.com/vi/PhATJDXrVUc/0.jpg)](https://youtu.be/PhATJDXrVUc "")
 
